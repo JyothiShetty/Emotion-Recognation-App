@@ -1,0 +1,2 @@
+rootProject.name = "EmotionDetection"
+include ':app'
